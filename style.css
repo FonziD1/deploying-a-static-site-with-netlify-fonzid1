@@ -36,5 +36,5 @@ body {
 }
 
 .button:active {
-  border: 5px solid #ffd300;
+  border: 5px dotted #ffd300;
 }
